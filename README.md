@@ -15,3 +15,10 @@ git clone git@github.com:nianjingnianjing/v2raya.git
 cd v2raya
 sudo bash ./install.sh
 ```
+
+然后settings配置代理，
+http为0.0.0.0:20171
+https为0.0.0.0:20171
+socks host为 0.0.0.0:20170
+
+打开浏览器，输入0.0.0.0：2017，则进入管理界面，点击第3个按钮xxxx.top，select 3～4个源，然后点击左上角的run即可。
